@@ -39,11 +39,6 @@ webot send event      # 调试事件消息
 你需要指定 `webot send --des http://127.0.0.1:3000/wechat'
 
 
-## 在微信上试用此示例
-
-- 微信账号：webot-test
-
-![qrcode: webot-test](https://raw.github.com/node-webot/webot-example/master/qrcode.jpg)
 
 # 搭建你自己的机器人
 
