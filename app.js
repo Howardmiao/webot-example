@@ -42,6 +42,7 @@ webot2.watch(app, { token: wx_token2, path: '/wechat_2' });
 
 // 在环境变量提供的 $PORT 或 3000 端口监听
 var port = process.env.PORT || 3000;
+log("Before Listen on %s", port);
 app.listen(port, function(){
   log("Listening on %s", port);
 });
