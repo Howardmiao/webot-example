@@ -29,11 +29,6 @@
     "wechat"
   ],
   "description": "weixin-robot 模块示例",
-  "repository": "https://github.com/node-webot/webot-example.git",
-  "author": "Jesse Yang <jyyjcc@gmail.com>",
-  "contributors": [
-    "Jesse Yang <jyyjcc@gmail.com> (http://github.com/ktmud)",
-    "TZ <atian25@qq.com> (http://atian25.iteye.com/)"
-  ],
+  "repository": "https://github.com/Howardmiao/webot-example.git",
   "license": "MIT"
 }
