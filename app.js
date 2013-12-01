@@ -8,8 +8,8 @@ var verbose = require('debug')('webot-example:verbose');
 var app = express();
 
 // 实际使用时，这里填写你在微信公共平台后台填写的 token
-var wx_token = process.env.WX_TOKEN || 'keyboardcat123';
-var wx_token2 = process.env.WX_TOKEN_2 || 'weixinToken2';
+var wx_token = process.env.WX_TOKEN || 'gQgmercury664274431';
+var wx_token2 = process.env.WX_TOKEN_2 || 'gQgmercury664274431';
 
 // remove this test code in production environment
 try {
