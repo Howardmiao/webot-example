@@ -3,7 +3,7 @@
 ## 本地运行
 
 ```bash
-git clone https://github.com/node-webot/webot-example.git
+git clone https://github.com/Howardmiao/webot-example.git
 cd webot-example/
 npm install
 make start
